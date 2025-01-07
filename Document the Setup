@@ -1,0 +1,12 @@
+# My DBeaver Project
+
+This repository contains a DBeaver project and the necessary database schema to replicate the environment locally.
+
+## Prerequisites
+- MySQL installed locally.
+- DBeaver installed.
+
+## Setup Instructions
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/yourrepo.git
